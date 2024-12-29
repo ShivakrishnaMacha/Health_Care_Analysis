@@ -63,6 +63,7 @@ The goal of this project was to design a dynamic dashboard that provides actiona
 
 ---
 
+**PowerBI Dashboard link:** [https://app.powerbi.com/links/cpEgFA6RMj?ctid=6ab2fdb5-cc9e-42b3-8fb9-08ee58b9c4a1&pbi_source=linkShare]
 
 ## Screenshot of Dashboard  
 ![National Health Survey Dashboard](https://github.com/user-attachments/assets/4d82f143-a62d-4ba4-babd-b7e4ca4011e2)
